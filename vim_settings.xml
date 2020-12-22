@@ -20,14 +20,26 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/appcode.vmoptions" timestamp="1599650327398">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="69" />
+      </file>
       <file name="/" timestamp="1589796422222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/iOS/loktar/srcs/app/BBStudio/BBStudio/sections/editor/caption/BBStudioCaptionModule.h" timestamp="1599650156918" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">LWphdmFhZ2VudDovVXNlcnMveGlhb3poYWkvLmpldGJyYWlucy9qZXRicmFpbnMtYWdlbnQtdjMuMi4wLmRlNzIuNjE5Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LWphdmFhZ2VudDovVXNlcnMveGlhb3poYWkvLmpldGJyYWlucy9qZXRicmFpbnMtYWdlbnQtdjMuMi4wLmRlNzIuNjE5Cg==</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
